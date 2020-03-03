@@ -16,6 +16,15 @@
             "name": "Uttam K Ukkoji",
             "email": "uttamukkoji@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Rohit Mishra",
+            "email": "rhtmishra4545@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Hitesh Baldaniya",
+            "role": "Developer"
         }
     ],
     "autoload": {
